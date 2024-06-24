@@ -1,6 +1,6 @@
 ---
 Title: WALLET CASH
-Members: Elian Farinango - Brenda Jacome
+Collaborators: Elian Farinango - Brenda Jacome
 Date: 25 - 06 - 2024
 ---
 Project Description:
