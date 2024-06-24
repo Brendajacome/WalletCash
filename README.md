@@ -15,6 +15,23 @@ To do this we will use the application "Apache NetBeans IDE" version 12.2, with 
 java language, version 17.0.1.
 
 ---
+Note: 
+---
+For the presented program to work you must have JDK 17 AND JRE 1.8 installed.
+
+Link JDK 17
+
+Remember to install the version compatible with your system
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
+Link JRE
+
+Remember to install the version compatible with your system
+https://www.java.com/es/download/manual.jsp
+
+
+
+---
 Execution 1 with payment button
 ---
 
@@ -38,8 +55,4 @@ Execution 4 invalid number
 
 ![execution 4 invalid number](https://github.com/Brendajacome/WalletCash/assets/169933606/3dbc9a33-1759-43e9-ad8c-55369e9e0e1b)
 
----
-Note: 
----
-For the presented program to work you must have JDK 17 AND JRE 1.8 installed.
-https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
