@@ -1,7 +1,7 @@
 ---
 Title: WALLET CASH
 Members: Elian Farinango - Brenda Jacome
-Date: 15 - 06 - 2024
+Date: 25 - 06 - 2024
 ---
 Project Description:
 ---
@@ -37,3 +37,9 @@ Execution 4 invalid number
 ---
 
 ![execution 4 invalid number](https://github.com/Brendajacome/WalletCash/assets/169933606/3dbc9a33-1759-43e9-ad8c-55369e9e0e1b)
+
+---
+Note: 
+---
+For the presented program to work you must have JDK 17 AND JRE 1.8 installed.
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
