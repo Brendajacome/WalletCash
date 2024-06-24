@@ -22,3 +22,10 @@ Finally we will be able to see how the file is executed so that we can make use 
 
 ![To Download 5](https://github.com/Brendajacome/WalletCash/blob/main/Project%20Screenshots/To%20Download%205.png)
 ---
+<strong>
+<h2>Note</h2>
+</strong>
+In case the program does not run, make sure you have correctly followed the instructions given and downloaded the JDK 
+and JDR version mentioned on the main repository page.
+
+---
