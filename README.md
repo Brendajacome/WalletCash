@@ -27,6 +27,7 @@ https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 Link JRE
 
 Remember to install the version compatible with your system
+
 https://www.java.com/es/download/manual.jsp
 
 
@@ -54,5 +55,12 @@ Execution 4 invalid number
 ---
 
 ![execution 4 invalid number](https://github.com/Brendajacome/WalletCash/assets/169933606/3dbc9a33-1759-43e9-ad8c-55369e9e0e1b)
+
+---
+To start downloading the program, go to the "Target" folder as shown in the image and follow the instructions there.
+---
+
+![To init](https://github.com/Brendajacome/WalletCash/assets/169933606/acef27bb-2aa6-4465-abbf-72aa9cf01ac1)
+
 
 
