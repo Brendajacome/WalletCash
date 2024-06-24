@@ -11,7 +11,7 @@ selected button the amount in the wallet will increase or decrease, it should be
 start with an amount of $ 100, in turn, each action performed must have a unique "ID", that is to
 say, that should not be repeated, the date and time at which the action was performed and finally
 the amount of such action.
-To do this we will use the application "Apache NetBeans IDE" version 12.2, with the
+To do this we will use the application "Apache NetBeans IDE" version 22, with the
 java language, version 17.0.1.
 
 ---
